@@ -1,0 +1,22 @@
+{
+  "name": "eb-status",
+  "version": "0.0.1",
+  "description": "Very simple ElasticBeanstalk enviornment status checker for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwbrown/eb-status.git"
+  },
+  "author": "Philip Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pwbrown/eb-status/issues"
+  },
+  "homepage": "https://github.com/pwbrown/eb-status#readme",
+  "dependencies": {
+    "aws-sdk": "^2.20.0"
+  }
+}
